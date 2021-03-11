@@ -1,0 +1,29 @@
+{
+  "name": "bolle",
+  "version": "0.0.2",
+  "description": "A 3D printable hamster wheel",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kommundsen/bolle.git"
+  },
+  "keywords": [
+    "Hamster",
+    "Wheel",
+    "3D",
+    "Print",
+    "OpenSCAD"
+  ],
+  "author": "Kim Ommundsen",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/kommundsen/bolle/issues"
+  },
+  "homepage": "https://github.com/kommundsen/bolle#readme",
+  "dependencies": {
+    "nodescad": "^1.1.0"
+  }
+}
